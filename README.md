@@ -1,7 +1,7 @@
-👋 Hi, I’m Aris Barlos
-👀 Currently, I’m interested in Software Development with JS Frameworks.
-🌱 I’m learning TypeScript and Node JS
-💞️ I’m looking to collaborate on big Open Source Projects
+👋 Hi, I’m Aris Barlos <br />
+👀 Currently, I’m interested in Software Development with JS Frameworks.<br />
+🌱 I’m learning TypeScript and Node JS <br />
+💞️ I’m looking to collaborate on big Open Source Projects <br />
 📫 How to reach me ... Well you can find me in my [site](https://arisbarlos.com)!
 
 <!---
