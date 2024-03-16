@@ -1,6 +1,6 @@
 👋 Hi, I’m Aris Barlos <br />
 🌱 I've solved problems in the real world with JavaScript,<br />
-    <br>TypeScript, Node.js, React, CSS3 and semantic HTML <br />
+    TypeScript, Node.js, React, CSS3 and semantic HTML <br />
 💞️ I’m looking to collaborate on big Open Source Projects <br />
 📫 My [site](https://arisbarlos.com)!
 
